@@ -1,5 +1,5 @@
 # About Me
-Hi! I'm Fernando and I'm actually becoming a fullstack web developer. I started this journey by January 2020 and has been one of the most beautiful and hard projects I had ever started.
+Hi! I'm Fernando and I'm a front-end web developer. I started this journey by January 2020 and has been one of the most beautiful and hard projects I had ever started.
 Within my profile, you can see the whole set of projects I have been builing since then to consolidate every aspect I've learned. Hope you find here some interesting ideas and products.
 
 ## Languages 📚
