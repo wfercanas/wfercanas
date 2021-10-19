@@ -7,7 +7,6 @@ Within my profile, you can see the whole set of projects I have been builing sin
 - HTML
 - CSS
 - JavaScript.
-### Currently learning 🧐:
 - React
 
 ## Communities 🤝
